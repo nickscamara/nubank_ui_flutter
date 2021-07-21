@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'custom_btn.dart';
+import '../widgets/custom_btn.dart';
 
 class MyCards extends StatelessWidget {
   const MyCards({Key? key}) : super(key: key);

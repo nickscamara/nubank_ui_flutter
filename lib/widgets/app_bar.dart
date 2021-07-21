@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:nubank_ui/util/colors.dart';
 
-import 'main.dart';
+import '../main.dart';
 
 class NubankAppBar extends StatelessWidget {
   const NubankAppBar({Key? key}) : super(key: key);

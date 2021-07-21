@@ -3,7 +3,7 @@ import 'package:nubank_ui/util/colors.dart';
 import 'package:nubank_ui/util/styles.dart';
 
 import 'custom_btn.dart';
-import 'main.dart';
+import '../main.dart';
 
 class ContaBody extends StatelessWidget {
   const ContaBody({Key? key}) : super(key: key);

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:nubank_ui/models/action.dart';
 import 'package:nubank_ui/util/styles.dart';
 
-import 'models/action.dart';
 
 
 

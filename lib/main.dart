@@ -1,12 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:nubank_ui/custom_btn.dart';
-
-import 'action_list.dart';
-import 'app_bar.dart';
-import 'conta_body.dart';
-import 'current_card.dart';
-import 'my_cards.dart';
+import 'widgets/action_list.dart';
+import 'widgets/app_bar.dart';
+import 'widgets/conta_body.dart';
+import 'widgets/current_card.dart';
+import 'widgets/my_cards.dart';
 
 void main() {
   runApp(MyApp());

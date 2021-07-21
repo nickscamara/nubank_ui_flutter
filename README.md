@@ -1,5 +1,5 @@
-# Nubank New UI in Flutter💜
- New Nubank UI in Flutter
+# Nubank New UI in Flutter
+ New Nubank UI in Flutter💜
 
 
 <p float="left">

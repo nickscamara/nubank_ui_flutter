@@ -2,11 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:nubank_ui/models/action.dart';
 import 'package:nubank_ui/util/styles.dart';
 
-
-
-
-
- List<ActionBtn> actions = [
+List<ActionBtn> actions = [
   new ActionBtn(
       Icon(
         Icons.model_training_outlined,
@@ -44,7 +40,6 @@ class ActionList extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-   
     return Container(
       height: 150,
       width: MediaQuery.of(context).size.width,

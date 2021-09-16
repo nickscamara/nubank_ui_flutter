@@ -4,6 +4,4 @@ class ActionBtn {
   Icon icon;
   String text;
   ActionBtn(this.icon, this.text);
-  
-
 }

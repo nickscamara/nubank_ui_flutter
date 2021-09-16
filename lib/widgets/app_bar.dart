@@ -13,7 +13,7 @@ class NubankAppBar extends StatelessWidget {
     return SliverAppBar(
       floating: true,
       stretch: true,
-      backgroundColor: CustomColors.p1,
+      backgroundColor: CustomColors.primaryColor,
       title: Container(
         height: toolbarHeight,
         child: Column(

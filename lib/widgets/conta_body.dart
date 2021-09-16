@@ -50,7 +50,7 @@ class ContaBody extends StatelessWidget {
               onTap: () {},
               label: Text("Fazer primeiro depósito",
                   style: mediumTxt.copyWith(color: Colors.white)),
-              color: CustomColors.p1)
+              color: CustomColors.primaryColor)
         ],
       ),
     );
